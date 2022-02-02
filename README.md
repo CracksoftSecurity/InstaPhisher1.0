@@ -1,4 +1,5 @@
 <!-- InstaPhisher -->
+![instaphisher](https://user-images.githubusercontent.com/69074572/152233834-a5414036-d0bc-43c6-aaa5-1d09a2b3a8f9.png)
 
 <h3><p align="center">Disclaimer</p></h3>
 
@@ -33,35 +34,16 @@ $ git clone https://github.com/CracksoftSecurity/InstaPhisher1.0
 
 - Change to cloned directory and run `InstaPhisher 1.0.sh` -
 ```
-$ cd zphisher
-$ bash zphisher.sh
+$ cd InstaPhisher1.0
+$ bash InstaPhisher 1.0.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
-
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
+- On first launch, It'll install the dependencies and that's it. InstaPhisher is installed.
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
+**`InstaPhisher`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
 - `git`
-
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
-
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
-
-##
-
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
