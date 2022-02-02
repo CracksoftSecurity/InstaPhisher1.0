@@ -28,7 +28,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   - The Tool (InstaPhisher) is NetPhishing Tool
   - All Pages or Shells are in Test
   - We are making our server 100% Secure
-  - The Tool (InstaPhisher) uses Tor Server to Make you Anonymous while using NGROK or other Ports
+  - The Tool (InstaPhisher) uses Tor Server to Make you Anonymous while using NGROK or Cloudflared Ports
+  - While Server Testing the tool May Not work
 
 ### Installation
 
