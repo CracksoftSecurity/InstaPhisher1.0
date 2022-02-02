@@ -18,12 +18,14 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 - Latest and updated login pages.
 - Mask URL support 
 - Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
 - Multiple tunneling options
   - Localhost
   - Ngrok (With or without hotspot)
   - Cloudflared (Alternative of Ngrok)
 
+
+### Beta --Version
+  - Tool is in Testing , Some Times maybe you'll get Error 
 
 ### Installation
 
@@ -40,7 +42,7 @@ $ bash InstaPhisher 1.0.sh
 
 - On first launch, It'll install the dependencies and that's it. InstaPhisher is installed.
 
-### Dependencies
+
 
 **`InstaPhisher`** requires following programs to run properly - 
 - `php`
